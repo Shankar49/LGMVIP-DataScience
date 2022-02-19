@@ -1,4 +1,4 @@
-# LGMVIP-DataScience
+# LGMVIP-DataScience Internship
 
 VIRTUAL INTERNSHIP PROGRAM 2021 November Batch
 
